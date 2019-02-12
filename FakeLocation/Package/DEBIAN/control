@@ -1,0 +1,17 @@
+Package: com.xxx.FakeLocation
+Name: FakeLocation
+Version: 0.1-1
+Description: 
+Section: Addons (Action Menu)
+Depends: firmware (>= 5.0),  actionmenu
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Jason Ruan
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
